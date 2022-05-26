@@ -1,0 +1,11 @@
+C:\Users\Isaiah\source\repos\BorderHopping\BorderHopping\obj\Debug\BorderHopping.csprojAssemblyReference.cache
+C:\Users\Isaiah\source\repos\BorderHopping\BorderHopping\obj\Debug\BorderHopping.Properties.Resources.resources
+C:\Users\Isaiah\source\repos\BorderHopping\BorderHopping\obj\Debug\BorderHopping.Resource1.resources
+C:\Users\Isaiah\source\repos\BorderHopping\BorderHopping\obj\Debug\BorderHopping.csproj.GenerateResource.cache
+C:\Users\Isaiah\source\repos\BorderHopping\BorderHopping\obj\Debug\BorderHopping.csproj.CoreCompileInputs.cache
+C:\Users\Isaiah\source\repos\BorderHopping\BorderHopping\bin\Debug\BorderHopping.exe.config
+C:\Users\Isaiah\source\repos\BorderHopping\BorderHopping\bin\Debug\BorderHopping.exe
+C:\Users\Isaiah\source\repos\BorderHopping\BorderHopping\bin\Debug\BorderHopping.pdb
+C:\Users\Isaiah\source\repos\BorderHopping\BorderHopping\obj\Debug\BorderHopping.exe
+C:\Users\Isaiah\source\repos\BorderHopping\BorderHopping\obj\Debug\BorderHopping.pdb
+C:\Users\Isaiah\source\repos\BorderHopping\BorderHopping\obj\Debug\BorderHopping.Game.resources
